@@ -1,0 +1,21 @@
+name: banner_carousel_custom
+description: "its a simple carousel slider"
+version: 0.0.1
+homepage: https://github.com/Lone-wolf-ai/banner_carousel
+
+environment:
+  sdk: ^3.5.4
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  velocity_x: ^4.2.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  
